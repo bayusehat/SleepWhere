@@ -32,14 +32,7 @@
         <item>Sumber Hotel</item>
         <item>Villa dan Hotel Family Gradia</item>
         <item>Hotel Prima Asri</item>
-        <item>Hotel Family Gradia 2</item>
-        <item>Villa Edelweiss 14 Malang</item>
-        <item>Hotel Pitaloka Palereman</item>
-        <item>Darmo Homestay</item>
-        <item>Bunga Butik Batu Malang</item>
-        <item>Griya Sekar Kedaton</item>
-        <item>Baliku Guest House</item>
-        <item>Table Mountain</item>
+
 
     </string-array>
     <string-array name="place_desc">
@@ -61,7 +54,7 @@ Setiap kamar di guest house ini dilengkapi dengan TV layar datar, lemari pakaian
         <item>Terletak dalam jarak dekat dengan lokasi wisata Batu seperti Jatim Park, Batu Night Spectacular (BNS) dan kebun binatang rahasia yang terkenal, hotel ini menawarkan kenyamanan dan ramah lingkungan. Setiap kamar dilengkapi kamar mandi dan fasilitas kamar yang tersedia. Fasilitas termasuk ruang pertemuan dan sebuah kafe taman yang menyajikan hidangan Indonesia.</item>
         <item>Villa dan Family Hotel Gradia menawarkan penginapan keluarga yang menyenangkan dan memberikan para tamu kesegaran dari keindahan alam Batu. Dekat dengan tempat wisata, seperti Jatim Park, Kusuma Agrowisata, Batu Night Spectacular (BNS), dan Batu Secret Zoo.</item>
         <item>Hotel Prima Asri 153 Batu terletak di Jantung Kota Batu, lokasi strategis, bersebelahan dengan Jatim Park 2 dan tidak jauh dari area bisnis dan hiburan di Batu. Hanya 5 menit jalan kaki ke Kusuma Argo WISATA, di mana Anda dapat memetik apel segar. Kamar dilengkapi dengan kamar mandi dan sejumlah fasilitas. Para tamu juga dapat menikmati sarapan di restoran atau dalam privasi kamar Anda setiap pagi.</item>
-        <item></item>
+        
     </string-array>
     <string-array name="place_details">
         <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
